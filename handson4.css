@@ -1,0 +1,17 @@
+.ul{
+    text-decoration: underline;
+}
+.st{
+    text-decoration: line-through;
+}
+.hl{
+    background-color: yellow;
+}
+.ol{
+    color: brown;
+    margin-left: 1%;
+}
+.uol{
+    color: brown;
+
+}
